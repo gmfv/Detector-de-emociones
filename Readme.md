@@ -19,7 +19,7 @@ Pudiendo detectarse: Ojos cerrados, guiño derecho, guiño izquierdo, cejas leva
 * Ejecutar el archivo main.py
 
 ## Autora
-* [Giohanna Martínez][https://github.com/gmfv]
+[Giohanna Martínez](https://github.com/gmfv)
 
 ## Referencias
 * [Facial landmarks with dlib, OpenCV, and Python](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/?_ga=2.267746444.321007053.1637623315-444521202.1637623315)
