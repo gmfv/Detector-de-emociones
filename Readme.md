@@ -8,7 +8,7 @@ Se utiliza los marcadores faciales (Facial Landmarks) de la librería dlib, que 
 
 ![Dlib Facial Landmarks](https://github.com/gmfv/Detector-de-emociones/blob/main/Dlib_Facial_landmarks%20(2).jpg)
 
-Pudiendo detectarse: Ojos cerrados, guiño derecho, guiño izquierdo, cejas levantadas, ceja derecha levantada, ceja izquierda levantada, sonrisa y beso.
+El programa logra detectar: Ojos cerrados, guiño derecho, guiño izquierdo, cejas levantadas, ceja derecha levantada, ceja izquierda levantada, sonrisa y beso.
 
 ## Iniciando
 ### Prerequisitos
