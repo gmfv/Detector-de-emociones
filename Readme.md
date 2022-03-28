@@ -16,7 +16,7 @@ El programa logra detectar: Ojos cerrados, guiño derecho, guiño izquierdo, cej
 
 ### Ejecutar el programa (Windows)
 * Clonar el proyecto
-* Descomprimir la carpeta Zip del modelo detector
+* Descargar el modelo detector de la [esta página](https://www.kaggle.com/datasets/codebreaker619/face-landmark-shape-predictor)(Es muy pesado para subir)
 * Tener al main.py y al shape_predictor_68_face_landmarks.dat en la misma carpeta
 * Ejecutar el archivo main.py
 
