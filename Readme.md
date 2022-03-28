@@ -12,7 +12,7 @@ El programa logra detectar: Ojos cerrados, guiño derecho, guiño izquierdo, cej
 
 ## Iniciando
 ### Prerequisitos
-* Tener instalado [DLIB](https://pypi.org/project/dlib/)
+* Tener instalado [DLIB](https://pypi.org/project/dlib/) (Les recomiendo este [blog](https://pyimagesearch.com/2017/03/27/how-to-install-dlib/))
 
 ### Ejecutar el programa (Windows)
 * Clonar el proyecto
