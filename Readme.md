@@ -16,6 +16,8 @@ El programa logra detectar: Ojos cerrados, guiño derecho, guiño izquierdo, cej
 
 ### Ejecutar el programa (Windows)
 * Clonar el proyecto
+* Descomprimir la carpeta Zip del modelo detector
+* Tener al main.py y al shape_predictor_68_face_landmarks.dat en la misma carpeta
 * Ejecutar el archivo main.py
 
 ## Autora
