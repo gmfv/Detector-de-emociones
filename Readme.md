@@ -2,7 +2,7 @@
 
 El proyecto consiste en la detección de expresiones faciales a través de la cámara del ordenador. 
 
-## Description
+## Descripción
 
 Se utiliza los marcadores faciales (Facial Landmarks) de la librería dlib, que permiten identificar puntos en los diferentes rasgos de la cara. 
 
